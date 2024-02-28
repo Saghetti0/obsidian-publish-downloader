@@ -9,15 +9,11 @@ A simple Python script to download an entire [Obsidian Publish](https://obsidian
 
 ## Example
 
-```
+```command
 python download.py https://help.obsidian.md/ vault
 ```
 
 To download the Obsidian Help site to a folder called "vault".
-
-## To-do
-
-- [ ] Parallel downloads
 
 ## Licensing
 
